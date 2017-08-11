@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+ConsoleApplication1.cpp(50): warning C4838: 从“double”转换到“float”需要收缩转换
+ConsoleApplication1.cpp(51): warning C4838: 从“double”转换到“float”需要收缩转换
+ConsoleApplication1.cpp(52): warning C4838: 从“double”转换到“float”需要收缩转换
+ConsoleApplication1.cpp(53): warning C4838: 从“double”转换到“float”需要收缩转换
+ConsoleApplication1.cpp(81): warning C4838: 从“double”转换到“float”需要收缩转换
+ConsoleApplication1.cpp(82): warning C4838: 从“double”转换到“float”需要收缩转换
+ConsoleApplication1.cpp(83): warning C4838: 从“double”转换到“float”需要收缩转换
+ConsoleApplication1.cpp(86): warning C4838: 从“double”转换到“float”需要收缩转换
+ConsoleApplication1.cpp(87): warning C4838: 从“double”转换到“float”需要收缩转换
+clapackd.lib(dgeev1.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  374 of 381 functions (98.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> D:\NEXT\TensorFieldVis\Release\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\NEXT\TensorFieldVis\Release\ConsoleApplication1.pdb (Full PDB)

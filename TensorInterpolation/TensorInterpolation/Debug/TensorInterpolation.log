@@ -1,0 +1,6 @@
+﻿  TensorInterpolation.cpp
+d:\next\tensorinterpolation\tensorinterpolation\tensorinterpolation.cpp(65): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\next\tensorinterpolation\tensorinterpolation\tensorinterpolation.cpp(66): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\next\tensorinterpolation\tensorinterpolation\tensorinterpolation.cpp(67): warning C4838: 从“double”转换到“float”需要收缩转换
+  TensorInterpolation.vcxproj -> D:\NEXT\TensorInterpolation\Debug\TensorInterpolation.exe
+  TensorInterpolation.vcxproj -> D:\NEXT\TensorInterpolation\Debug\TensorInterpolation.pdb (Full PDB)

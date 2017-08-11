@@ -1,0 +1,121 @@
+﻿  ConsoleApplication1.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(471): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(471): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(539): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(539): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(540): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(540): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5015): error C2733: “_bittest”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(508): note: 参见“_bittest”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5021): error C2733: “_bittestandcomplement”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(510): note: 参见“_bittestandcomplement”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5027): error C2733: “_bittestandset”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(514): note: 参见“_bittestandset”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5033): error C2733: “_bittestandreset”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(512): note: 参见“_bittestandreset”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5039): error C2733: “_interlockedbittestandset”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(529): note: 参见“_interlockedbittestandset”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5045): error C2733: “_interlockedbittestandreset”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(521): note: 参见“_interlockedbittestandreset”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5111): error C2733: “_InterlockedIncrement16”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(261): note: 参见“_InterlockedIncrement16”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5116): error C2733: “_InterlockedDecrement16”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(211): note: 参见“_InterlockedDecrement16”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5121): error C2733: “_InterlockedCompareExchange16”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(186): note: 参见“_InterlockedCompareExchange16”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5134): warning C4391: “SHORT _InterlockedIncrement16(volatile SHORT *)”: 不正确的内部函数返回类型，应为“short”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5135): warning C4391: “SHORT _InterlockedDecrement16(volatile SHORT *)”: 不正确的内部函数返回类型，应为“short”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5136): warning C4391: “SHORT _InterlockedCompareExchange16(volatile SHORT *,SHORT,SHORT)”: 不正确的内部函数返回类型，应为“short”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5189): error C2733: “_InterlockedAnd”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(159): note: 参见“_InterlockedAnd”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5195): error C2733: “_InterlockedOr”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(272): note: 参见“_InterlockedOr”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5201): error C2733: “_InterlockedXor”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(292): note: 参见“_InterlockedXor”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5208): error C2733: “_InterlockedIncrement”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(259): note: 参见“_InterlockedIncrement”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5214): error C2733: “_InterlockedDecrement”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(209): note: 参见“_InterlockedDecrement”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5220): error C2733: “_InterlockedExchange”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(222): note: 参见“_InterlockedExchange”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5227): error C2733: “_InterlockedExchangeAdd”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(236): note: 参见“_InterlockedExchangeAdd”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5246): error C2733: “_InterlockedCompareExchange”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(179): note: 参见“_InterlockedCompareExchange”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5300): warning C4391: “LONG _InterlockedAnd(volatile LONG *,LONG)”: 不正确的内部函数返回类型，应为“long”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5301): warning C4391: “LONG _InterlockedOr(volatile LONG *,LONG)”: 不正确的内部函数返回类型，应为“long”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5302): warning C4391: “LONG _InterlockedXor(volatile LONG *,LONG)”: 不正确的内部函数返回类型，应为“long”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5303): warning C4391: “LONG _InterlockedIncrement(volatile LONG *)”: 不正确的内部函数返回类型，应为“long”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5304): warning C4391: “LONG _InterlockedDecrement(volatile LONG *)”: 不正确的内部函数返回类型，应为“long”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5305): warning C4391: “LONG _InterlockedExchange(volatile LONG *,LONG)”: 不正确的内部函数返回类型，应为“long”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5306): warning C4391: “LONG _InterlockedExchangeAdd(volatile LONG *,LONG)”: 不正确的内部函数返回类型，应为“long”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5307): warning C4391: “LONG _InterlockedCompareExchange(volatile LONG *,LONG,LONG)”: 不正确的内部函数返回类型，应为“long”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5317): error C2733: “_InterlockedExchange8”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(232): note: 参见“_InterlockedExchange8”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5323): error C2733: “_InterlockedExchange16”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(224): note: 参见“_InterlockedExchange16”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5328): warning C4391: “CHAR _InterlockedExchange8(volatile CHAR *,CHAR)”: 不正确的内部函数返回类型，应为“char”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5329): warning C4391: “SHORT _InterlockedExchange16(volatile SHORT *,SHORT)”: 不正确的内部函数返回类型，应为“short”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5364): error C2733: “_InterlockedAnd16”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(160): note: 参见“_InterlockedAnd16”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5370): error C2733: “_InterlockedXor16”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(293): note: 参见“_InterlockedXor16”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5383): error C2733: “_InterlockedOr16”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h(273): note: 参见“_InterlockedOr16”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5401): warning C4391: “SHORT _InterlockedAnd16(volatile SHORT *,SHORT)”: 不正确的内部函数返回类型，应为“short”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5402): warning C4391: “SHORT _InterlockedOr16(volatile SHORT *,SHORT)”: 不正确的内部函数返回类型，应为“short”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5403): warning C4391: “SHORT _InterlockedXor16(volatile SHORT *,SHORT)”: 不正确的内部函数返回类型，应为“short”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5404): warning C4391: “SHORT _InterlockedCompareExchange16(volatile SHORT *,SHORT,SHORT)”: 不正确的内部函数返回类型，应为“short”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5405): warning C4391: “SHORT _InterlockedIncrement16(volatile SHORT *)”: 不正确的内部函数返回类型，应为“short”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5406): warning C4391: “SHORT _InterlockedDecrement16(volatile SHORT *)”: 不正确的内部函数返回类型，应为“short”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5484): warning C4391: “LONG _InterlockedXor(volatile LONG *,LONG)”: 不正确的内部函数返回类型，应为“long”
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5787): error C2733: “_mm_prefetch”: 不允许重载函数的第二个 C 链接
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmmintrin.h(346): note: 参见“_mm_prefetch”的声明
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8291): error C2146: 语法错误: 缺少“)”(在标识符“Source”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8302): error C2146: 语法错误: 缺少“)”(在标识符“Source”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8313): error C2146: 语法错误: 缺少“)”(在标识符“Source”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8325): error C2146: 语法错误: 缺少“)”(在标识符“Destination”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8338): error C2146: 语法错误: 缺少“)”(在标识符“Destination”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8351): error C2146: 语法错误: 缺少“)”(在标识符“Destination”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8363): error C2146: 语法错误: 缺少“)”(在标识符“Source”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8374): error C2146: 语法错误: 缺少“)”(在标识符“Source”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8385): error C2146: 语法错误: 缺少“)”(在标识符“Source”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8397): error C2146: 语法错误: 缺少“)”(在标识符“Destination”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8410): error C2146: 语法错误: 缺少“)”(在标识符“Destination”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8423): error C2146: 语法错误: 缺少“)”(在标识符“Destination”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8435): error C2146: 语法错误: 缺少“)”(在标识符“Source”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8446): error C2146: 语法错误: 缺少“)”(在标识符“Source”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8457): error C2146: 语法错误: 缺少“)”(在标识符“Source”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8469): error C2146: 语法错误: 缺少“)”(在标识符“Destination”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8482): error C2146: 语法错误: 缺少“)”(在标识符“Destination”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8495): error C2146: 语法错误: 缺少“)”(在标识符“Destination”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8593): error C2146: 语法错误: 缺少“)”(在标识符“Source”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8604): error C2146: 语法错误: 缺少“)”(在标识符“Source”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8615): error C2146: 语法错误: 缺少“)”(在标识符“Source”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8627): error C2146: 语法错误: 缺少“)”(在标识符“Destination”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8640): error C2146: 语法错误: 缺少“)”(在标识符“Destination”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8653): error C2146: 语法错误: 缺少“)”(在标识符“Destination”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\processenv.h(53): error C2143: 语法错误: 缺少“;”(在“__stdcall”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\processenv.h(53): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\8.1\include\um\processenv.h(53): error C2040: “LPCH”:“int”与“int *”的间接寻址级别不同
+c:\program files (x86)\windows kits\8.1\include\um\processenv.h(56): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\8.1\include\um\processenv.h(90): error C2146: 语法错误: 缺少“)”(在标识符“penv”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\fileapi.h(1060): error C2061: 语法错误: 标识符“PLONG”
+c:\program files (x86)\windows kits\8.1\include\um\winbase.h(1263): error C2146: 语法错误: 缺少“)”(在标识符“NewEnvironment”的前面)
+c:\program files (x86)\windows kits\8.1\include\um\winbase.h(7660): error C2061: 语法错误: 标识符“LPCH”
+c:\program files (x86)\windows kits\8.1\include\um\winreg.h(790): error C2061: 语法错误: 标识符“PLONG”
+c:\program files (x86)\windows kits\8.1\include\um\winreg.h(799): error C2061: 语法错误: 标识符“PLONG”
+c:\program files (x86)\windows kits\8.1\include\shared\wtypesbase.h(141): error C2371: “SHORT”: 重定义；不同的基类型
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(539): note: 参见“SHORT”的声明
+c:\clapacklib\include\clapack.h(1572): error C2144: 语法错误:“char”的前面应有“)”
+c:\clapacklib\include\clapack.h(1572): error C2144: 语法错误:“char”的前面应有“;”
+c:\clapacklib\include\clapack.h(1572): warning C4091: “”: 没有声明变量时忽略“char”的左侧
+c:\clapacklib\include\clapack.h(1572): error C2143: 语法错误: 缺少“;”(在“,”的前面)
+c:\clapacklib\include\clapack.h(1572): error C2059: 语法错误:“,”
+c:\clapacklib\include\clapack.h(1572): error C2059: 语法错误:“)”
+c:\clapacklib\include\clapack.h(3030): error C2144: 语法错误:“char”的前面应有“)”
+c:\clapacklib\include\clapack.h(3030): error C2144: 语法错误:“char”的前面应有“;”
+c:\clapacklib\include\clapack.h(3030): warning C4091: “”: 没有声明变量时忽略“char”的左侧
+c:\clapacklib\include\clapack.h(3030): error C2143: 语法错误: 缺少“;”(在“,”的前面)
+c:\clapacklib\include\clapack.h(3030): error C2059: 语法错误:“,”
+c:\clapacklib\include\clapack.h(3030): error C2059: 语法错误:“)”
