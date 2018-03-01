@@ -1,6 +1,6 @@
 # Tensor Visualization
 
-![](http://www.sci.utah.edu/~gk/DTI-data/gk2/gk2-sample.png)
+![](http://www.sci.utah.edu/~gk/DTI-data/gk2/gk2-y90.png)
 
 
 
